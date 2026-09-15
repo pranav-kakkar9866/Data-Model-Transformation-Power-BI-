@@ -219,6 +219,8 @@ These processes were modeled to support analysis of the fulfillment lifecycle wh
 The original model resembled a highly interconnected web of tables.
 
 The redesigned model follows dimensional modeling principles:
+<img width="1536" height="1024" alt="ChatGPT Image Sep 15, 2026, 02_53_35 PM" src="https://github.com/user-attachments/assets/e6dfa850-1f43-44e3-b466-6994b0f2ebe3" />
+
 
 ```text
                  dim_customer
