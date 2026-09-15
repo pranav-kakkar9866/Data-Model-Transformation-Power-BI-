@@ -573,14 +573,4 @@ Correctly defining table grain, separating dimensions from facts, controlling re
 
 ---
 
-## Author
 
-**Maria Victoria Quinterno**
-
-Marketing & Data Analytics | Accounting & Financial Analysis | Business Intelligence
-
----
-
-## Disclaimer
-
-This repository is a portfolio project created for educational and professional-development purposes. Any sample data included in the project should be treated as demonstration data rather than production business information.
